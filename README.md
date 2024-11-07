@@ -12,7 +12,7 @@ I'm a **Quality Automation Engineer** with over 2 years of experience in web and
 - **API Testing**: Postman, Swagger, Rest Assured
 - **Frameworks**: Hybrid Framework (Data-Driven with POM Design Pattern and TestNG)
 - **CI/CD**: Maven, Jenkins
-- **Parallel Execution**: Leveraging Selenium Grid and Docker for efficient cross-environment testing
+- **Parallel Execution**: Selenium Grid and Docker for efficient cross-environment testing
 
 I take pride in creating robust automation solutions, and I'm always excited to learn and apply new tools and techniques to enhance software quality.
 
